@@ -3885,3 +3885,25 @@ input, select, textarea {
 		}
 
 	}
+
+	.links{
+		list-style-type: none;
+		
+		overflow: hidden;
+	}
+	#list-item{
+		float: right;;
+	}
+
+	#list-item a{
+		display: block;
+		color:white;
+		text-align: center;
+		padding: 8px;
+		text-decoration: none;
+		border-bottom: none;
+	}
+
+	#list-item a:hover{
+		color:#2ee4bb;
+	}
