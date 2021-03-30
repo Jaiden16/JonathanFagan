@@ -3896,12 +3896,12 @@ input, select, textarea {
 	}
 
 	#list-item a{
-		display: block;
+		/* display: block; */
 		color:white;
 		text-align: center;
-		padding: 8px;
+		padding: 2px;
 		text-decoration: none;
-		border-bottom: none;
+		/* border-bottom: none; */
 	}
 
 	#list-item a:hover{
